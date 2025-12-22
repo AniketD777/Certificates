@@ -11,7 +11,7 @@ Certifications and learning programs completed through Google, covering foundati
 
 <p align="center">
   <a href="assets/pdf/Coursera 44ZSA235XSXS(Course1).pdf">
-    <img src="assets/img/Google-1.png" width="500" alt="Google Certificate PDF">
+    <img src="assets/img/Google-1.png" width="500" alt="Google Certificate">
   </a>
 </p>
 
@@ -21,7 +21,7 @@ Certifications and learning programs completed through Google, covering foundati
 
 <p align="center">
   <a href="assets/pdf/Coursera 3ZAB9UXSYPDH(Course2).pdf">
-    <img src="assets/img/Google-2.png" width="500" alt="Google Certificate PDF">
+    <img src="assets/img/Google-2.png" width="500" alt="Google Certificate">
   </a>
 </p>
 
@@ -31,7 +31,7 @@ Certifications and learning programs completed through Google, covering foundati
 
 <p align="center">
   <a href="assets/pdf/Coursera KYAKNW2T5BVD(Course4).pdf">
-    <img src="assets/img/Google-3.png" width="500" alt="Google Certificate PDF">
+    <img src="assets/img/Google-3.png" width="500" alt="Google Certificate">
   </a>
 </p>
 
@@ -41,7 +41,7 @@ Certifications and learning programs completed through Google, covering foundati
 
 <p align="center">
   <a href="assets/pdf/Coursera VFV7VF3PBZ9C(Course3).pdf">
-    <img src="assets/img/Google-4.png" width="500" alt="Google Certificate PDF">
+    <img src="assets/img/Google-4.png" width="500" alt="Google Certificate">
   </a>
 </p>
 
@@ -56,8 +56,8 @@ Certifications and learning programs completed through Google, covering foundati
 Certifications focused on API security fundamentals, vulnerabilities, secure API design, and real-world attack scenarios aligned with modern application security practices.
 
 <p align="center">
-  <a href="assets/pdf/google-certificate.pdf">
-    <img src="assets/img/Google-1.png" width="500" alt="Google Certificate PDF">
+  <a href="assets/pdf/APIsecCourseCertificate20231030-37-gfn1rw.pdf">
+    <img src="assets/img/APISec-1.png" width="500" alt="APISec Certificate">
   </a>
 </p>
 
@@ -66,17 +66,13 @@ Certifications focused on API security fundamentals, vulnerabilities, secure API
 </p>
 
 <p align="center">
-  <a href="assets/google-certificate.pdf">
-    <img src="assets/google-certificate-preview.png" width="500" alt="Google Certificate PDF">
+  <a href="assets/pdf/APIsecCourseCertificate20231031-34-9t71gx.pdf">
+    <img src="assets/img/APISec-2.png" width="500" alt="APISec Certificate">
   </a>
 </p>
 
 <p align="center">
   <em>Click image to view full certificate (PDF)</em>
-</p>
-
-<p align="center">
-  <img src="assets/apisec-certificate.png" alt="APISec Certification" width="500">
 </p>
 
 ---
@@ -86,7 +82,38 @@ Certifications focused on API security fundamentals, vulnerabilities, secure API
 Hands-on cybersecurity labs and learning paths completed on TryHackMe, emphasizing practical skills in penetration testing, web security, Active Directory, and defensive security.
 
 <p align="center">
-  <img src="assets/tryhackme-certificate.png" alt="TryHackMe Certificate" width="500">
+    <img src="assets/img/THM-1.png" width="500" alt="TryHackMe Certificate">
+  </a>
+</p>
+
+<p align="center">
+    <img src="assets/img/THM-2.png" width="500" alt="TryHackMe Certificate">
+  </a>
+</p>
+
+<p align="center">
+    <img src="assets/img/THM-3.png" width="500" alt="TryHackMe Certificate">
+  </a>
+</p>
+
+<p align="center">
+  <a href="assets/pdf/THM-5UVYZKKPOX.pdf">
+    <img src="assets/img/THM-4.png" width="500" alt="TryHackMe Certificate">
+  </a>
+</p>
+
+<p align="center">
+  <em>Click image to view full certificate (PDF)</em>
+</p>
+
+<p align="center">
+  <a href="assets/pdf/THM-OG2XXQCNJR.pdf">
+    <img src="assets/img/THM-5.png" width="500" alt="TryHackMe Certificate PDF">
+  </a>
+</p>
+
+<p align="center">
+  <em>Click image to view full certificate (PDF)</em>
 </p>
 
 ---
