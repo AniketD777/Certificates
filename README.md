@@ -7,7 +7,7 @@ It reflects my continuous learning journey and commitment to staying current wit
 
 ## Google
 
-Certifications and learning programs completed through Google, covering foundational and advanced concepts in cloud computing, security, and related technologies.
+Certifications and learning programs completed through Google, covering foundational and advanced concepts in security, and related technologies.
 
 <p align="center">
   <a href="assets/pdf/Coursera 44ZSA235XSXS(Course1).pdf">
@@ -119,6 +119,8 @@ Hands-on cybersecurity labs and learning paths completed on TryHackMe, emphasizi
 ---
 
 ## Cisco
+
+Certifications and learning programs completed through Cisco, covering foundational and advanced concepts in networking, security, and related technologies.
 
 <p align="center">
   <a href="assets/pdf/Introduction_to_Cybersecurity_Badge20230203-30-5uhsyv.pdf">
