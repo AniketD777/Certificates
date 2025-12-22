@@ -10,7 +10,43 @@ It reflects my continuous learning journey and commitment to staying current wit
 Certifications and learning programs completed through Google, covering foundational and advanced concepts in cloud computing, security, and related technologies.
 
 <p align="center">
-  <img src="assets/google-certificate.png" alt="Google Certification" width="500">
+  <a href="assets/pdf/Coursera 44ZSA235XSXS(Course1).pdf">
+    <img src="assets/img/Google-1.png" width="500" alt="Google Certificate PDF">
+  </a>
+</p>
+
+<p align="center">
+  <em>Click image to view full certificate (PDF)</em>
+</p>
+
+<p align="center">
+  <a href="assets/pdf/Coursera 3ZAB9UXSYPDH(Course2).pdf">
+    <img src="assets/img/Google-2.png" width="500" alt="Google Certificate PDF">
+  </a>
+</p>
+
+<p align="center">
+  <em>Click image to view full certificate (PDF)</em>
+</p>
+
+<p align="center">
+  <a href="assets/pdf/Coursera KYAKNW2T5BVD(Course4).pdf">
+    <img src="assets/img/Google-3.png" width="500" alt="Google Certificate PDF">
+  </a>
+</p>
+
+<p align="center">
+  <em>Click image to view full certificate (PDF)</em>
+</p>
+
+<p align="center">
+  <a href="assets/pdf/Coursera VFV7VF3PBZ9C(Course3).pdf">
+    <img src="assets/img/Google-4.png" width="500" alt="Google Certificate PDF">
+  </a>
+</p>
+
+<p align="center">
+  <em>Click image to view full certificate (PDF)</em>
 </p>
 
 ---
@@ -20,8 +56,8 @@ Certifications and learning programs completed through Google, covering foundati
 Certifications focused on API security fundamentals, vulnerabilities, secure API design, and real-world attack scenarios aligned with modern application security practices.
 
 <p align="center">
-  <a href="assets/google-certificate.pdf">
-    <img src="assets/google-certificate-preview.png" width="500" alt="Google Certificate PDF">
+  <a href="assets/pdf/google-certificate.pdf">
+    <img src="assets/img/Google-1.png" width="500" alt="Google Certificate PDF">
   </a>
 </p>
 
