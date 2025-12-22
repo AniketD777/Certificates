@@ -121,7 +121,33 @@ Hands-on cybersecurity labs and learning paths completed on TryHackMe, emphasizi
 ## Cisco
 
 <p align="center">
-  <img src="assets/tryhackme-certificate.png" alt="TryHackMe Certificate" width="500">
+  <a href="assets/pdf/Introduction_to_Cybersecurity_Badge20230203-30-5uhsyv.pdf">
+    <img src="assets/img/Cisco-1.png" width="500" alt="Cisco Certificate PDF">
+  </a>
+</p>
+
+<p align="center">
+  <em>Click image to view full certificate (PDF)</em>
+</p>
+
+<p align="center">
+  <a href="assets/pdf/Networking_Basics_Badge20230218-28-197o649.pdf">
+    <img src="assets/img/Cisco-2.png" width="500" alt="Cisco Certificate PDF">
+  </a>
+</p>
+
+<p align="center">
+  <em>Click image to view full certificate (PDF)</em>
+</p>
+
+<p align="center">
+  <a href="assets/pdf/Networking_Essentials_Badge20230220-28-3mfk8f.pdf">
+    <img src="assets/img/Cisco-3.png" width="500" alt="Cisco Certificate PDF">
+  </a>
+</p>
+
+<p align="center">
+  <em>Click image to view full certificate (PDF)</em>
 </p>
 
 ---
@@ -129,7 +155,13 @@ Hands-on cybersecurity labs and learning paths completed on TryHackMe, emphasizi
 ## Others
 
 <p align="center">
-  <img src="assets/tryhackme-certificate.png" alt="TryHackMe Certificate" width="500">
+  <a href="assets/pdf/VimForEveryone.pdf">
+    <img src="assets/img/Vim.png" width="500" alt="Certificate PDF">
+  </a>
+</p>
+
+<p align="center">
+  <em>Click image to view full certificate (PDF)</em>
 </p>
 
 ---
