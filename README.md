@@ -82,6 +82,16 @@ Certifications focused on API security fundamentals, vulnerabilities, secure API
 Hands-on cybersecurity labs and learning paths completed on TryHackMe, emphasizing practical skills in penetration testing, web security, Active Directory, and defensive security.
 
 <p align="center">
+  <a href="assets/pdf/THM-PWNYKAZHGX.pdf">
+    <img src="assets/img/THM-6.png" width="500" alt="TryHackMe Certificate">
+  </a>
+</p>
+
+<p align="center">
+  <em>Click image to view full certificate (PDF)</em>
+</p>
+
+<p align="center">
     <img src="assets/img/THM-1.png" width="500" alt="TryHackMe Certificate">
   </a>
 </p>
