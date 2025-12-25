@@ -75,6 +75,16 @@ Certifications focused on API security fundamentals, vulnerabilities, secure API
   <em>Click image to view full certificate (PDF)</em>
 </p>
 
+<p align="center">
+  <a href="assets/pdf/APIsecCourseCertificateFinal.pdf">
+    <img src="assets/img/APISec-3.png" width="500" alt="APISec Certificate">
+  </a>
+</p>
+
+<p align="center">
+  <em>Click image to view full certificate (PDF)</em>
+</p>
+
 ---
 
 ## TryHackMe
